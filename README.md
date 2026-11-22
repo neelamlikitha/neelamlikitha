@@ -11,7 +11,7 @@
 
 <!-- ✏️ EDIT: Typing animation lines (separate lines with ;) -->
 <a href="https://github.com/neelamlikitha">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Likhitha+%F0%9F%91%8B;Software+Development+Intern+%7C+Aspiring+Software+Engineer;B.Tech+CSE+Student+%7C+Full-Stack+Developer;Building+clean%2C+scalable+and+user-friendly+solutions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Hi+there%2C+I+am+Likhitha;Software+Development+Intern;Aspiring+Software+Engineer;B.Tech+CSE+Student;Full-Stack+Developer" alt="Typing animation" />
 </a>
 
 <br/>
